@@ -8,7 +8,7 @@ namespace Survey.App.Controllers
     {
         [HttpGet]
         public IActionResult Get()
-        {//s
+        {
             return Ok("s");
         }
     }
